@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi! I'm Eslam Omar Mohamed, but you can call me Xeno.<br>I'm a passionate Full Stack Developer specializing in React and Node.js.<br>I graduated with a Computer Science degree from Ain Shams University, specifically from the Scientific Computing department.<br>I love building intuitive and scalable web applications, and I'm always excited to explore new technologies and solve challenging problems.
+Eslam Omar Mohamed (Xeno)
+Full Stack Developer | Machine Learning Enthusiast
+
+I am a passionate Full Stack Developer specializing in React and Node.js, with a Computer Science degree from Ain Shams University, specifically from the Scientific Computing department. I love building intuitive and scalable web applications and thrive on solving complex problems and exploring new technologies. In addition to web development, I am proficient in machine learning, deep learning, and neural networks, which further fuel my passion for innovation.
+
+
 
 
 ## 🌐 Socials:
